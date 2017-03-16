@@ -1,0 +1,5 @@
+## Requirements without Version Specifiers ##
+cvxpy
+numpy
+scikit-learn
+matplotlib
